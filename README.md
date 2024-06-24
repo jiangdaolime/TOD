@@ -24,13 +24,13 @@ Copy the trainer.py file from this repository and replace the corresponding file
 # Usage
 To generate adversarial samples and use them for fine-tuning, follow the standard TextAttack procedures. Detailed usage can be found in the TextAttack documentation.
 
-Adversarial Sample Generation
+## Adversarial Sample Generation
 You can generate adversarial samples using various attack methods provided by TextAttack. Once generated, these samples can be fine-tuned as per your requirements. The creation process can be referenced from the TextAttack official documentation.
 
-Reusing Adversarial Samples
+## Reusing Adversarial Samples
 To reuse adversarial samples, store them in a CSV file and load them as needed. We have provided a sample data file in the repository for reference. For additional data or queries, please contact the authors or generate new adversarial samples using the attack methods provided.
 
-Fine-Tuning Process
+## Fine-Tuning Process
 The entire fine-tuning workflow can be referenced from the pseudocode section of our paper.
 
 
