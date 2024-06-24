@@ -11,6 +11,7 @@ cd your-repo-name
 Install dependencies:
 ```bash
 pip install -r requirements.txt
+```bash
 
 Install TextAttack:
 Follow the installation instructions for TextAttack from their official repository.
