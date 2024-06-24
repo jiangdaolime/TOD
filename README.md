@@ -1,12 +1,14 @@
+# Revisiting the Trade-Off between the Performance of Adversarial and Normal Examples on NLP Few-shot Tasks
 
-Project Title
 This repository contains a modified version of the TextAttack library, designed to enhance adversarial text attack generation and fine-tuning processes. The primary changes are made to the xxx file, which should be placed in the xxx location of the TextAttack version 0.3.7 for proper functionality.
 
 # Installation
 Clone the repository:
+```bash
 git clone https://github.com/your-username/your-repo-name.git
 
 cd your-repo-name
+```
 
 Install dependencies:
 ```bash
@@ -32,12 +34,9 @@ Fine-Tuning Process
 The entire fine-tuning workflow can be referenced from the pseudocode section of our paper.
 
 
-
 # Contributing
 We welcome contributions to improve this repository. Please fork the project, create a feature branch, and submit a pull request.
 
-# License
-This project is licensed under the MIT License.
 
 # Contact
 For more information, questions, or additional data, please contact the authors at [ningrx21@gmail.com].
