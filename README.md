@@ -1,6 +1,6 @@
 # Revisiting the Trade-off between the Performance of Adversarial and Normal Examples on NLP Few-shot Tasks
 
-This repository contains a modified version of the TextAttack library, designed to enhance adversarial text attack generation and fine-tuning processes. The primary changes are made to the xxx file, which should be placed in the xxx location of the TextAttack version 0.3.7 for proper functionality.
+This repository contains a modified version of the TextAttack library, designed to enhance adversarial text attack generation and fine-tuning processes. The primary changes are made to the trainer.py file, which should be placed in the Textattack/textattack location of the TextAttack version 0.3.7 for proper functionality.
 
 # Installation
 Clone the repository:
